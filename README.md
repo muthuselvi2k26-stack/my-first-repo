@@ -1,2 +1,1 @@
-# my-first-repo
-My Git learning
+# Hello Git! Naan Git kathukkiren 😊
